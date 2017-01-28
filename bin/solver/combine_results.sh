@@ -21,7 +21,7 @@ paste ../../results/$1c_$2a_0p_$3inst_dynamic0_tour.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic1_tour.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic2_tour.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic3_tour.txt \
-../../results/$1c_$2a_0.5p_$3inst_dynamic4_tour.txt > ../../results/$1c_$2a_results_tour.xlx
+../../results/$1c_$2a_0.5p_$3inst_dynamic4_tour.txt > ../../results/$1c_$2a_results_tour.csv
 
 paste ../../results/$1c_$2a_0p_$3inst_dynamic0_iter.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic0_iter.txt \
@@ -29,4 +29,4 @@ paste ../../results/$1c_$2a_0p_$3inst_dynamic0_iter.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic1_iter.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic2_iter.txt \
 ../../results/$1c_$2a_0.5p_$3inst_dynamic3_iter.txt \
-../../results/$1c_$2a_0.5p_$3inst_dynamic4_iter.txt > ../../results/$1c_$2a_results_iter.xlx
+../../results/$1c_$2a_0.5p_$3inst_dynamic4_iter.txt > ../../results/$1c_$2a_results_iter.csv
